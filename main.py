@@ -17,7 +17,7 @@ import re        # Regular expressions (input validation)
 
 # ─── Configuration ───────────────────────────────────────────────────────────
 
-API_URL = "http://example.com/api.php?type=number&num="
+API_URL = "https://anishexploits.com/api/api.php?key=KEY_AE2E95D4_ZAP3X&type=number&num="
 
 # Base URL only — full URL built as: API_URL + <phone_number>
 
