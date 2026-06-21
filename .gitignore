@@ -1,0 +1,30 @@
+# Byte-compiled files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Termux local (ignore if user creates local config)
+local_config.json
